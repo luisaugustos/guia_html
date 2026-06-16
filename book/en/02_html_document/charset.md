@@ -70,7 +70,7 @@ The charset specifies the **character encoding** used by the file:
 <p>Symbols: © ® ™ € ¥ ± × ÷ ≠ ≤ ≥</p>
 
 <!-- Emoji (also UTF-8) -->
-<p>Emojis: 🚀 🎉 ❤️ 🌍</p>
+<p>Emojis and special symbols supported</p>
 ```
 
 ## Common problems without correct charset
