@@ -3,7 +3,7 @@
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Universidad de Salamanca](https://img.shields.io/badge/USAL-Universidad%20de%20Salamanca-red.svg)](https://www.usal.es)
 
-Libro educativo interactivo de **HTML (HyperText Markup Language)** diseñado para la asignatura **Sistemas y Aplicaciones Informáticas** de **Ingeniería Informática** en la Universidad de Salamanca.
+Libro educativo interactivo de **HTML (HyperText Markup Language)** diseñado para la asignatura **Interacion Persona Ordenador (IPO)** de **Ingeniería Informática** en la Universidad de Salamanca.
 
 Este material proporciona una introducción pragmática y centrada en competencias a los conceptos fundamentales de HTML que todo ingeniero informático debe dominar, desde la anatomía de las etiquetas hasta la creación de sitios web completos.
 
@@ -11,7 +11,7 @@ Este material proporciona una introducción pragmática y centrada en competenci
 
 ## 📖 Sobre este libro
 
-**Asignatura**: Sistemas y Aplicaciones Informáticas  
+**Asignatura**: Interacion Persona Ordenador (IPO)  
 **Grado**: Ingeniería Informática  
 **Universidad**: Universidad de Salamanca  
 **Guía docente**: https://guias.usal.es/node/199094
@@ -20,21 +20,14 @@ Este libro forma parte del material educativo para la asignatura de formación b
 
 ## 👤 Autor
 
-**Luis Blázquez Medina**  
+**Luis Augusto Silva Zendron**  
 Departamento de Informática y Automática  
 Universidad de Salamanca
 
 - **Perfil de investigador**: https://produccioncientifica.usal.es/investigadores/1285047/detalle
-- **GitHub**: [talkdoluis](https://github.com/talkdoluis)
-- **Email**: talkdoluis@gmail.com
+- **GitHub**: [luisaugustos](https://github.com/luisaugustos)
+- **Email**: luisaugustos@usal.es
 
-## 📝 Cita
-
-La cita recomendada está en formato APA 7.ª edición:
-
-> Blázquez Medina, L. (2026). *Guía de HTML para Ingeniería Informática*. Universidad de Salamanca.
-
-Los metadatos reutilizables están en [`CITATION.cff`](CITATION.cff), [`CITATION.bib`](CITATION.bib) y [`.zenodo.json`](.zenodo.json).
 
 ---
 
@@ -85,6 +78,7 @@ El libro está organizado en 6 capítulos progresivos:
 4. **Enlaces e Hipervínculos** — Rutas, URLs, enlaces internos y externos
 5. **Tablas** — Estructura de tablas, merged cells, accesibilidad
 6. **Tu Primer Proyecto** — Proyecto práctico: crear tu propio sitio web
+7. **... TBC**
 
 ### 🎯 Recomendaciones de aprendizaje
 
@@ -102,31 +96,6 @@ El libro está organizado en 6 capítulos progresivos:
 4. Lee la documentación oficial: [MDN Web Docs](https://developer.mozilla.org/es/docs/Learn/HTML)
 
 ---
-
-## 📂 Estructura del proyecto
-
-```
-guia-html-usal/
-├── book/                          # Contenido del libro
-│   ├── es/                        # Capítulos en español
-│   │   ├── intro.md               # Introducción al libro
-│   │   ├── 01_conceptos_fundamentales/
-│   │   ├── 02_elementos_documento/
-│   │   ├── 03_elementos_semanticos/
-│   │   ├── 04_enlaces/
-│   │   ├── 05_tablas/
-│   │   └── 06_primer_html/
-│   ├── en/                        # Capítulos en inglés (misma estructura)
-│   ├── _static/                   # Imágenes, CSS, logos
-│   ├── _config_es.yml             # Configuración español
-│   ├── _toc_es.yml                # Índice español
-│   ├── _config_en.yml             # Configuración inglés
-│   └── _toc_en.yml                # Índice inglés
-├── scripts/                       # Scripts de compilación (uso interno)
-├── HTML/                          # Archivos HTML de referencia originales
-├── AGENTS.md                      # Documentación técnica del proyecto
-└── README.md                      # Este archivo
-```
 
 ### 📝 Recursos para estudiantes
 
@@ -147,58 +116,6 @@ En la web, encontrarás un selector de idioma en la esquina superior para cambia
 
 ---
 
-## 📚 Bibliografía y referencias
-
-La forma más simple de gestionar bibliografía en esta plantilla es:
-
-1. guardar todas las entradas BibTeX en:
-   - `book/_static/references.bib`
-2. citar en cualquier página con:
-   - `{cite:t}`
-   - `{cite:p}`
-3. usar la página final de:
-   - `Referencias` / `References`
-
-Esa página imprime la bibliografía global del libro y sirve también para la exportación a PDF/LaTeX.
-
----
-
-## ❓ Preguntas frecuentes
-
-**P: ¿Puedo descargar el libro en PDF?**  
-R: Sí, descargalo desde la sección "Cómo acceder al libro" arriba. También está disponible en la web con un botón de descarga.
-
-**P: ¿Puedo usar este material en mi propio curso?**  
-R: Sí, está licenciado bajo CC BY 4.0. Puedes reutilizarlo siempre que atribuas la autoría.
-
-**P: ¿Hay ejercicios prácticos?**  
-R: Sí, cada capítulo incluye ejercicios y un proyecto final para aplicar lo aprendido.
-
-**P: ¿Dónde reporto problemas o sugerencias?**  
-R: Contacta con el autor o abre un issue en el repositorio de GitHub.
-
----
-
-## 🔧 Para desarrolladores / Contribuyentes
-
-Si deseas contribuir mejoras a este libro:
-
-1. **Fork** el repositorio
-2. Crea una **rama** con tus cambios
-3. Haz **commit** con mensajes descriptivos
-4. Abre un **Pull Request**
-
-El libro se compila automáticamente en GitHub Pages con cada actualización.
-
-### Tecnología utilizada
-
-- **Jupyter Book** — Framework para libros interactivos
-- **MyST Markdown** — Markdown con capacidades extendidas
-- **Sphinx** — Generador de documentación
-- **Python 3.12** — Lenguaje base de los scripts
-- **TeachBook** — Plantilla educativa
-
----
 
 ## 📄 Licencia
 
@@ -222,6 +139,4 @@ Este libro se construyó usando:
 
 ---
 
-**¿Preguntas o sugerencias?**  
-Contacta con: **talkdoluis@gmail.com**  
-O abre un issue en el repositorio de GitHub.
+
