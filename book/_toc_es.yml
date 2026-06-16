@@ -18,3 +18,5 @@ parts:
       - file: es/07_formularios/tipos_input
     - file: es/08_multimedia/intro
     - file: es/09_accesibilidad/intro
+    - file: es/10_atributos_avanzados/intro
+    - file: es/11_meta_tags_avanzados/intro
