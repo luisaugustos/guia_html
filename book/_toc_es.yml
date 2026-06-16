@@ -11,3 +11,6 @@ parts:
     - file: es/04_enlaces/intro
     - file: es/05_tablas/intro
     - file: es/06_primer_html/proyecto_inicial
+    - file: es/07_formularios/intro
+      sections:
+      - file: es/07_formularios/tipos_input

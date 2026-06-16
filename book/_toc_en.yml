@@ -11,3 +11,6 @@ parts:
     - file: en/04_links/intro
     - file: en/05_tables/intro
     - file: en/06_your_first_html/initial_project
+    - file: en/07_forms/intro
+      sections:
+      - file: en/07_forms/input_types
