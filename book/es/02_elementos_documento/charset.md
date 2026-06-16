@@ -1,6 +1,6 @@
 # Charset (Juego de Caracteres)
 
-El atributo `charset` define qué **juego de caracteres** (encoding) usa el documento HTML. Es fundamental para que los navegadores interpreten correctamente textos en diferentes idiomas y caracteres especiales.
+El atributo `charset` define que **juego de caracteres** (encoding) usa el documento HTML. Es fundamental para que los navegadores interpreten correctamente textos en diferentes idiomas y caracteres especiales.
 
 ## ¿Qué es charset?
 
@@ -69,8 +69,8 @@ El charset especifica la **codificación de caracteres** que usa el archivo:
 <!-- Caracteres matemáticos y símbolos -->
 <p>Símbolos: © ® ™ € ¥ ± × ÷ ≠ ≤ ≥</p>
 
-<!-- Emoji (también UTF-8) -->
-<p>Emojis y símbolos especiales soportados</p>
+<!-- Emojis y símbolos especiales soportados -->
+<p>Unicode soporta muchos caracteres especiales</p>
 ```
 
 ## Problemas comunes sin charset correcto
@@ -79,7 +79,7 @@ Sin declarar `charset="UTF-8"`, el navegador puede mal-interpretar caracteres:
 
 ```html
 <!-- ✗ MALO: Sin meta charset, caracteres acentuados pueden verse así:
-    â€œHolaâ€? en lugar de "Hola"
+    caracteres rotos en lugar de "Hola"
 -->
 <head>
   <title>Página sin charset</title>

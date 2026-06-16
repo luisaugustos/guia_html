@@ -69,8 +69,8 @@ The charset specifies the **character encoding** used by the file:
 <!-- Mathematical characters and symbols -->
 <p>Symbols: © ® ™ € ¥ ± × ÷ ≠ ≤ ≥</p>
 
-<!-- Emoji (also UTF-8) -->
-<p>Emojis and special symbols supported</p>
+<!-- Emojis and special symbols supported -->
+<p>Unicode supports many special characters</p>
 ```
 
 ## Common problems without correct charset
@@ -79,7 +79,7 @@ Without declaring `charset="UTF-8"`, the browser may misinterpret characters:
 
 ```html
 <!-- ✗ BAD: Without meta charset, accented characters may appear as:
-    â€œHelloâ€? instead of "Hello"
+    broken characters instead of "Hello"
 -->
 <head>
   <title>Page without charset</title>
