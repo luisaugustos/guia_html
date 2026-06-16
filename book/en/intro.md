@@ -1,24 +1,53 @@
-# Introduction
+# Introduction to HTML
 
-Welcome to **Creating Electronic Books with Code and Artificial Intelligence Assistants**.
+Welcome to the **HTML Guide for Computer Engineering**.
 
-## What is this?
-This is the course material and a template designed for the teaching staff of the **Faculties of Sciences and Chemical Sciences at USAL** to create interactive teaching books easily. The main idea of this template is for it to be broad enough to cover many use cases and for each student to adapt it to their own course, while also being sufficiently equipped to be used easily with the help of AI assistants (such as GitHub Copilot, Gemini, Claude, Codex, etc.) and a code editor such as VS Code.
+This book will teach you the essential knowledge you need as a Computer Engineering student about **HTML (HyperText Markup Language)**. It's not an exhaustive manual, but a pragmatic introduction to the concepts and tools every computer engineer should master.
 
-## Content
-In this book you will find:
+## What is HTML?
 
-- [Tutorials](01_tutorial/01_what_is_a_teachbook.md) to learn how to use the template
-- [Examples by Degree](02_degrees/physics_degree/intro.md) to see real cases
-- Information on [how to cite](92_how_to_cite.md) and [licenses](91_licenses.md)
+HTML is the **standard markup language** for creating web pages. It provides the structure and meaning of web content, while CSS controls presentation and JavaScript adds interactivity.
 
-## PDF version
+As a computer engineer, understanding HTML is fundamental because:
 
-You can also download the printable version of the book:
+- **It's the foundation of the web**: every web page, web application, and modern digital content is built on HTML.
+- **It's simple yet powerful**: you can create structured content clearly and semantically.
+- **It enables communication with other professionals**: designers, frontend developers, and accessibility specialists all speak the language of HTML.
+- **It opens doors**: understanding HTML is the first step toward web development, progressive web apps (PWA), electronic documents, and beyond.
 
-- [Download PDF in English](../_static/CreatingElectronicBooksWithCodeAndArtificialIntelligenceAssistants.pdf)
-- [Descargar PDF en español](../_static/ElaboracionDeLibrosElectronicosMedianteCodigoYAsistentesDeInteligenciaArtificial.pdf)
+## What will you learn?
 
-```{note}
-This project is designed to be used with **VS Code** and **AI** assistants.
-```
+In this book we will cover:
+
+1. **Fundamental Concepts** — What tags are, attributes, and how an HTML document is structured.
+2. **The HTML Document** — The anatomy of a page: DOCTYPE, head, body, meta tags, favicon, and SEO.
+3. **Semantic Elements** — How to use the correct tags to give meaning to your content (headings, paragraphs, lists, citations).
+4. **Links and Hyperlinks** — How to connect documents and resources with URLs, absolute and relative paths.
+5. **Tables** — How to structure tabular data correctly.
+6. **Your First HTML** — A practical project to bring it all together.
+
+## How to use this book
+
+- Each chapter includes **practical examples** you can copy and experiment with.
+- Concepts are ordered **from simple to complex**.
+- It's recommended to follow the sequential order: each chapter builds on the previous ones.
+
+## Tools you'll need
+
+- A **code editor** (VS Code, Sublime Text, Atom, etc.)
+- A **web browser** (Chrome, Firefox, Safari, Edge)
+- **Basic command line** (Git Bash, PowerShell, or Terminal)
+
+That's all. HTML doesn't require complicated installations.
+
+## Note for educators
+
+If you're a teacher using this material for your course, you can:
+- Adapt it to your curriculum
+- Add your own exercises
+- Create PDF versions for printing
+- Publish it on your own web server
+
+Consult the TeachBook documentation in the resources section.
+
+Let's get started!
