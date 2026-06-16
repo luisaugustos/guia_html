@@ -7,6 +7,8 @@ parts:
       sections:
       - file: en/01_fundamental_concepts/tag_anatomy
     - file: en/02_html_document/intro
+      sections:
+      - file: en/02_html_document/charset
     - file: en/03_semantic_elements/intro
     - file: en/04_links/intro
     - file: en/05_tables/intro

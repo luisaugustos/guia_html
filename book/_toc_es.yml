@@ -7,6 +7,8 @@ parts:
       sections:
       - file: es/01_conceptos_fundamentales/anatomia_tags
     - file: es/02_elementos_documento/intro
+      sections:
+      - file: es/02_elementos_documento/charset
     - file: es/03_elementos_semanticos/intro
     - file: es/04_enlaces/intro
     - file: es/05_tablas/intro
