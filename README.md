@@ -18,6 +18,16 @@ Este material proporciona una introducción pragmática y centrada en competenci
 
 Este libro forma parte del material educativo para la asignatura de formación básica en tecnologías de la información y sistemas web.
 
+### 📚 Serie de libros web
+
+Este es el **primer libro** de una serie educativa sobre tecnologías web para Ingeniería Informática:
+
+1. ✅ **Guía de HTML** — En desarrollo (este libro)
+2. 🔄 **Guía de CSS** — Próximamente
+3. 🔄 **Guía de JavaScript** — Próximamente
+
+Cada libro proporciona una introducción pragmática a una tecnología web fundamental, con ejemplos prácticos y proyectos completos.
+
 ## 👤 Autor
 
 **Luis Augusto Silva Zendron**  

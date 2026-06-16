@@ -40,6 +40,16 @@ In this book we will cover:
 
 That's all. HTML doesn't require complicated installations.
 
+## 📚 Next books in the series
+
+This book is the **first in a series** on fundamental web technologies:
+
+1. ✅ **HTML Guide for Computer Engineering** (this book)
+2. 🔄 **CSS Guide for Computer Engineering** (coming soon)
+3. 🔄 **JavaScript Guide for Computer Engineering** (coming soon)
+
+Each book can be used independently, but following the order is recommended for logical progression in web development learning.
+
 ## Note for educators
 
 If you're a teacher using this material for your course, you can:

@@ -40,6 +40,16 @@ En este libro cubriremos:
 
 Eso es todo. HTML no requiere instalaciones complicadas.
 
+## 📚 Próximos libros de la serie
+
+Este libro es el **primero de una serie** sobre tecnologías web fundamentales:
+
+1. ✅ **Guía de HTML para Ingeniería Informática** (este libro)
+2. 🔄 **Guía de CSS para Ingeniería Informática** (próximamente)
+3. 🔄 **Guía de JavaScript para Ingeniería Informática** (próximamente)
+
+Cada libro se puede usar de forma independiente, pero se recomienda seguir el orden para una progresión lógica en el aprendizaje de desarrollo web.
+
 ## Nota para docentes
 
 Si eres un profesor usando este material para tu curso, puedes:
