@@ -14,3 +14,5 @@ parts:
     - file: en/07_forms/intro
       sections:
       - file: en/07_forms/input_types
+    - file: en/08_multimedia/intro
+    - file: en/09_accessibility/intro
